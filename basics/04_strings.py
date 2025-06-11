@@ -110,3 +110,8 @@ print("Hello".ljust(10, "."))
 # Hello
 print("Hello".center(99, "-"))
 # -----------------------------Hello-----------------------------
+
+
+# Len
+print(len("Hello"))
+# 5
